@@ -1,0 +1,25 @@
+{
+    "name": "mengsen/rbac",
+    "description": "rbac 权限管理组件",
+    "homepage": "https://www.web3.xin",
+    "keywords": [
+        "rbac",
+        "权限管理"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "孟森",
+            "email": "626512443@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rbac\\": [
+                "src/"
+            ]
+        }
+    }
+}
